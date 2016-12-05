@@ -1,0 +1,1 @@
+This is Alec Kajewski's first git project
